@@ -1,2 +1,2 @@
 #!/bin/bash
-file . -type d ! -path . | Wc -1
+file . -type d ! -path . | wc -l
